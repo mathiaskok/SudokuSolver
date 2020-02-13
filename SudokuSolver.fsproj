@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Board.fs" />
+    <Compile Include="Input.fs" />
+    <Compile Include="Solver.fs" />
+    <Compile Include="SolutionCheck.fs" />
+    <Compile Include="Output.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
